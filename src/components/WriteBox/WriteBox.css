@@ -1,0 +1,30 @@
+.WriteBox__box {
+  cursor: pointer;
+  border: 2px solid #999;
+  border-radius: 2em;
+  width: 90%;
+  margin: 2% auto;
+  height: 27em;
+  background: url('../../images/noun_477866_cc_animated.gif') no-repeat center;
+  background-size: auto 35%;
+}
+
+.WriteBox__box__withWriting {
+  background-image: url('../../images/writing.png');
+  background-size: auto 90%;
+}
+
+.WriteBox__button {
+  cursor: pointer;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  border: 0;
+  border-radius: 1em;
+  font-size: 2em;
+  color: #fff;
+  display: block;
+  margin: 0 auto;
+  padding: 0.5em 1em;
+  background: green;
+}

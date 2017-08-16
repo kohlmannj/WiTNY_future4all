@@ -1,6 +1,7 @@
 module.exports = {
+  pathPrefix: `/`,
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: `Sēn☆Taps`,
   },
   plugins: [`gatsby-plugin-react-helmet`],
 }
