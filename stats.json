@@ -16,13 +16,17 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "component---src-pages-community-jsx": [
+      "component---src-pages-community-jsx-0fe62c113eadd78f2974.js",
+      "component---src-pages-community-jsx-0fe62c113eadd78f2974.js.map"
+    ],
     "component---src-pages-suggestions-jsx": [
       "component---src-pages-suggestions-jsx-692393f14ce63b6b8a98.js",
       "component---src-pages-suggestions-jsx-692393f14ce63b6b8a98.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-030041c3721098f97afa.js",
-      "component---src-layouts-index-js-030041c3721098f97afa.js.map"
+      "component---src-layouts-index-js-a60b965b53f6cd4d88a6.js",
+      "component---src-layouts-index-js-a60b965b53f6cd4d88a6.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
@@ -31,6 +35,10 @@
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---community": [
+      "path---community-a0e39f21c11f6a62c5ab.js",
+      "path---community-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -43,8 +51,8 @@
       "build-js-styles.css.map"
     ],
     "component---src-pages-suggestions-speak-jsx": [
-      "component---src-pages-suggestions-speak-jsx-878281d32140b15cd013.js",
-      "component---src-pages-suggestions-speak-jsx-878281d32140b15cd013.js.map"
+      "component---src-pages-suggestions-speak-jsx-07b8248a49fc2bc0e002.js",
+      "component---src-pages-suggestions-speak-jsx-07b8248a49fc2bc0e002.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -55,8 +63,8 @@
       "component---src-pages-page-2-js-91c2b783199c2d0b6623.js.map"
     ],
     "app": [
-      "app-29587dddfc667436ad0d.js",
-      "app-29587dddfc667436ad0d.js.map"
+      "app-a6a087d271538e4db6fa.js",
+      "app-a6a087d271538e4db6fa.js.map"
     ],
     "path---suggestions-speak": [
       "path---suggestions-speak-a0e39f21c11f6a62c5ab.js",
