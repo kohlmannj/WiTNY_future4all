@@ -615,7 +615,7 @@ webpackJsonp([15178676390636814000],{
 	    pages = newPages;
 	    var pathPrefix = "";
 	    if (true) {
-	      pathPrefix = ("/kohlmannj.github.io/WiTNY_future4all");
+	      pathPrefix = ("/WiTNY_future4all");
 	    }
 	    findPage = (0, _findPage2.default)(newPages, pathPrefix);
 	  },
@@ -1141,7 +1141,7 @@ webpackJsonp([15178676390636814000],{
 	
 	var pathPrefix = "/";
 	if (true) {
-	  pathPrefix = ("/kohlmannj.github.io/WiTNY_future4all") + "/";
+	  pathPrefix = ("/WiTNY_future4all") + "/";
 	}
 	
 	if ("serviceWorker" in navigator) {
