@@ -1,0 +1,2 @@
+webpackJsonp([0xdcae2f0a89c3d800],{"./node_modules/json-loader/index.js!./.cache/json/suggestions-speak.json":function(e,o){e.exports={pathContext:{}}}});
+//# sourceMappingURL=path---suggestions-speak-a0e39f21c11f6a62c5ab.js.map
