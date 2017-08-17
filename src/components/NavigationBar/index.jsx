@@ -12,7 +12,7 @@ import languageIcon from '../../images/noun_1049_cc.png';
 
 const NavigationBar = ({ isHome }) => (
   <div className={cx('NavigationBar', { 'NavigationBar__home': isHome })}>
-    { !isHome && <Link className="NavigationBar__button" to="/"><img src={homeIcon} alt="Back to Home" /></Link>}
+    {!isHome && <Link className="NavigationBar__button" to="/"><img src={homeIcon} alt="Back to Home" /></Link>}
     <Link className={cx('NavigationBar__link', 'events')} to="/events/" style={{ backgroundColor: 'crimson' }}>
       <img src={eventsIcon} alt="" />
       <span>Events</span>
@@ -29,8 +29,8 @@ const NavigationBar = ({ isHome }) => (
       <img src={suggestionsIcon} alt="" />
       <span>Suggestions</span>
     </Link>
-    { !isHome && <button className="NavigationBar__button"><img src={volumeIcon} alt="Volume Level" /></button>}
-    { !isHome && <button className="NavigationBar__button"><img src={languageIcon} alt="Choose Language" /></button>}
+    {!isHome && <button className="NavigationBar__button" onClick={() => { window.alert('Change the audio volume level. (Coming soon!)'); }}><img src={volumeIcon} alt="Volume Level" /></button>}
+    {!isHome && <button className="NavigationBar__button" onClick={() => { window.alert('Change the displayed and spoken languge. (Coming soon!)'); }}><img src={languageIcon} alt="Choose Language" /></button>}
   </div>
 );
 

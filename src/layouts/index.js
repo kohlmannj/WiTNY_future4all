@@ -9,7 +9,7 @@ import './index.css'
 const TemplateWrapper = ({ children }) =>
   <div>
     <Helmet
-      title="Gatsby Default Starter"
+      title="Sēn☆Taps"
       meta={[
         { name: 'description', content: 'Sample' },
         { name: 'keywords', content: 'sample, something' },
@@ -19,7 +19,7 @@ const TemplateWrapper = ({ children }) =>
     <Header />
     <div
       style={{
-        margin: '0 auto 6em',
+        margin: '6em auto',
       }}
     >
       {children()}

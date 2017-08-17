@@ -9,6 +9,11 @@
   background-size: auto 35%;
 }
 
+.WriteBox__box__wait {
+  background-image: url('../../images/writing.gif');
+  background-size: auto 90%;
+}
+
 .WriteBox__box__withWriting {
   background-image: url('../../images/writing.png');
   background-size: auto 90%;

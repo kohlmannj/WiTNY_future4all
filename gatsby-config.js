@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/`,
+  pathPrefix: `/WiTNY_future4all`,
   siteMetadata: {
     title: `Sēn☆Taps`,
   },

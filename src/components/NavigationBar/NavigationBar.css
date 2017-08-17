@@ -7,16 +7,18 @@
   bottom: 0;
   left: 0;
   right: 0;
+  height: 6em;
 }
 
 .NavigationBar__home {
   position: static;
   width: 96%;
+  height: auto;
   display: flex;
   flex-wrap: wrap;
   /* outline: 2px solid rebeccapurple; */
-  margin-left: 4%;
-  margin-top: 4%;
+  margin-left: 6%;
+  padding-top: 4em;
 }
 
 .NavigationBar__link {
@@ -32,7 +34,6 @@
   align-items: center;
   font-size: 1.25em;
   line-height: 1.2em;
-  height: 4.5em;
   border-left: 0.2em solid #fff;
 }
 
@@ -51,9 +52,9 @@
   flex-direction: column;
   text-align: center;
   flex: 0 1 46%;
-  padding: 2% 0;
-  margin-right: 4%;
-  margin-bottom: 4%;
+  padding: 4% 0;
+  margin-right: 2%;
+  margin-bottom: 2%;
   font-size: 3em;
   height: 7em;
   border-left: 0;
@@ -62,6 +63,10 @@
 .NavigationBar__home .NavigationBar__link img {
   width: 5em;
   margin: 0 0 0.5em;
+}
+
+.NavigationBar__home .NavigationBar__link:nth-child(n + 2) {
+  margin-bottom: 0;
 }
 
 .NavigationBar__button {
@@ -84,7 +89,4 @@
   display: block;
   margin: 0;
   width: 3em;
-}
-
-.events {
 }
