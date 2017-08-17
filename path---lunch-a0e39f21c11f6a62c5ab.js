@@ -1,0 +1,2 @@
+webpackJsonp([0xbeefa7d4e9c43000],{"./node_modules/json-loader/index.js!./.cache/json/lunch.json":function(e,n){e.exports={pathContext:{}}}});
+//# sourceMappingURL=path---lunch-a0e39f21c11f6a62c5ab.js.map

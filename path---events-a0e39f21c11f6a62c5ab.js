@@ -1,0 +1,2 @@
+webpackJsonp([0x28aaa351973c0e00],{"./node_modules/json-loader/index.js!./.cache/json/events.json":function(e,n){e.exports={pathContext:{}}}});
+//# sourceMappingURL=path---events-a0e39f21c11f6a62c5ab.js.map
